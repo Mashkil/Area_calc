@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area_calc", "Area_calc.csproj", "{39EF41CF-4BCD-433B-81A1-D5354FADE015}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check_library", "..\Check_library\Check_library.csproj", "{456BFBA5-A227-401D-80B0-C7702866A113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EF41CF-4BCD-433B-81A1-D5354FADE015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EF41CF-4BCD-433B-81A1-D5354FADE015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EF41CF-4BCD-433B-81A1-D5354FADE015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EF41CF-4BCD-433B-81A1-D5354FADE015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456BFBA5-A227-401D-80B0-C7702866A113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456BFBA5-A227-401D-80B0-C7702866A113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456BFBA5-A227-401D-80B0-C7702866A113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456BFBA5-A227-401D-80B0-C7702866A113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D001693-C6DB-4C13-B003-BD74D854DA0F}
+	EndGlobalSection
+EndGlobal

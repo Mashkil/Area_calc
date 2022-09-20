@@ -1,0 +1,3 @@
+SELECT Cat.Categury, Tov.Tovar_name
+FROM Cat
+RIGHT JOIN Tov on Tov.Id_cat= Cat.Id
