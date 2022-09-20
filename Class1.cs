@@ -56,7 +56,7 @@ namespace Area_calc
         /// <param name="r"></param>
         /// <returns></returns>
         public static double Area(string formula, double? A=null , double? B=null, double? C= null, double? H= null, double? R=null, double? S = null, double? N = null)
-        {
+        {       //Если добавить какие то конкретные фигуры , то функциональность будет ограничена. Поэтому я подумал , что лучше что бы вводили формулу и считалась площадь.
             formula= formula.Replace("A", A.ToString());
             formula = formula.Replace("B", B.ToString());
             formula = formula.Replace("C", C.ToString());
